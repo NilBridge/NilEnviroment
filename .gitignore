@@ -1,4 +1,5 @@
 NilBridge/
 logs.txt
 node/
+.vscode/
 Release_*.zip
